@@ -1,0 +1,9 @@
+.btn:hover{
+    background-color: #000000;
+}
+.btn-floating{
+    background-color: #4dbb4d;
+}
+.btn-floating:hover{
+    background-color: black;
+}

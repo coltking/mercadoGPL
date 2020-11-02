@@ -1,0 +1,24 @@
+.texto{
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+}
+.footer{
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;;
+    filter: blur(-1px);
+    padding: 0px 20px;
+    background-color: transparent;
+    font-family: "Times New Roman", Times, serif;
+    border: 1px solid white ;
+    border-radius: 20px;
+}

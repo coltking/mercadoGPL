@@ -1,0 +1,18 @@
+.container-contact{
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    border: 1px solid white;
+    font-family: "Times New Roman", Times, serif;
+}
+.btn-contact{
+    font-family: "Times New Roman", Times, serif;
+    filter: blur(1px);
+}
+.btn-contact:hover{
+    filter: blur(0px);
+}
