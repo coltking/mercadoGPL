@@ -1,14 +1,14 @@
 import React from 'react';
 import { Route, BrowserRouter as Router, Switch } from 'react-router-dom';
 import './App.css';
-import NavBar from './components/navBar/navBar';
+import NavBar from './components/navBar/navBar.jsx';
 import 'materialize-css/dist/css/materialize.min.css'
 import 'material-icons'
-import Body from './components/navBar/body/body';
-import Product from './components/navBar/body/product';
-import Categories from './components/navBar/body/categories';
-import Home from './components/navBar/body/home';
-import Contact from './components/navBar/body/contact';
+import Body from './components/navBar/body/body.jsx';
+import Product from './components/navBar/body/product.jsx';
+import Categories from './components/navBar/body/categories.jsx';
+import Home from './components/navBar/body/home.jsx';
+import Contact from './components/navBar/body/contact.jsx';
 
 function App() {
   return (

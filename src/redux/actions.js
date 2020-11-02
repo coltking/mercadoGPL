@@ -1,7 +1,7 @@
 
 import { CLEAR_PRODUCT, SEARCH_RESULT, SEARCH_RESULT_FILTERED, SET_CATEGORIES_FILTER, SET_CATEGORIES_LIST, SET_LOADING, SET_PRODUCT } from './constants'
 import axios from 'axios'
-const url = 'http://localhost:3000'
+const url = 'https://mercado-gpl.herokuapp.com/'
 export const actionSearch = (term) => {
     return (dispatch) => {
         dispatch(actionSetLoading(true))
