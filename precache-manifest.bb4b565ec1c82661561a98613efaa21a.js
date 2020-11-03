@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "79aeedceaa66fdf3d84a55ce441a2461",
+    "revision": "6058297b9b8a3d1f15d18daa7a365476",
     "url": "/mercadoGPL/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mercadoGPL/static/css/2.228b90c7.chunk.css"
   },
   {
-    "revision": "00395896dc87b6d285ba",
+    "revision": "6f57406d1536848930aa",
     "url": "/mercadoGPL/static/css/main.3ffb6f47.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mercadoGPL/static/js/2.da692ae8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "00395896dc87b6d285ba",
-    "url": "/mercadoGPL/static/js/main.c567e094.chunk.js"
+    "revision": "6f57406d1536848930aa",
+    "url": "/mercadoGPL/static/js/main.78355ad9.chunk.js"
   },
   {
     "revision": "81355c17a5875b02663b",
