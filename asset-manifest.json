@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ffb6f47.chunk.css",
-    "main.js": "/static/js/main.363f511d.chunk.js",
-    "main.js.map": "/static/js/main.363f511d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.52570f14.js",
-    "runtime-main.js.map": "/static/js/runtime-main.52570f14.js.map",
-    "static/css/2.20db02cc.chunk.css": "/static/css/2.20db02cc.chunk.css",
-    "static/js/2.da692ae8.chunk.js": "/static/js/2.da692ae8.chunk.js",
-    "static/js/2.da692ae8.chunk.js.map": "/static/js/2.da692ae8.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b44c1662fe6df01b8f8db079ab14536c.js": "/precache-manifest.b44c1662fe6df01b8f8db079ab14536c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.20db02cc.chunk.css.map": "/static/css/2.20db02cc.chunk.css.map",
-    "static/css/main.3ffb6f47.chunk.css.map": "/static/css/main.3ffb6f47.chunk.css.map",
-    "static/js/2.da692ae8.chunk.js.LICENSE.txt": "/static/js/2.da692ae8.chunk.js.LICENSE.txt",
-    "static/media/material-icons.css": "/static/media/MaterialIcons-Regular.d120c85b.ttf"
+    "main.css": "/mercadoGPL/static/css/main.3ffb6f47.chunk.css",
+    "main.js": "/mercadoGPL/static/js/main.c567e094.chunk.js",
+    "main.js.map": "/mercadoGPL/static/js/main.c567e094.chunk.js.map",
+    "runtime-main.js": "/mercadoGPL/static/js/runtime-main.f8350877.js",
+    "runtime-main.js.map": "/mercadoGPL/static/js/runtime-main.f8350877.js.map",
+    "static/css/2.228b90c7.chunk.css": "/mercadoGPL/static/css/2.228b90c7.chunk.css",
+    "static/js/2.da692ae8.chunk.js": "/mercadoGPL/static/js/2.da692ae8.chunk.js",
+    "static/js/2.da692ae8.chunk.js.map": "/mercadoGPL/static/js/2.da692ae8.chunk.js.map",
+    "index.html": "/mercadoGPL/index.html",
+    "precache-manifest.e50706c7828154a1d4afa9506562ca22.js": "/mercadoGPL/precache-manifest.e50706c7828154a1d4afa9506562ca22.js",
+    "service-worker.js": "/mercadoGPL/service-worker.js",
+    "static/css/2.228b90c7.chunk.css.map": "/mercadoGPL/static/css/2.228b90c7.chunk.css.map",
+    "static/css/main.3ffb6f47.chunk.css.map": "/mercadoGPL/static/css/main.3ffb6f47.chunk.css.map",
+    "static/js/2.da692ae8.chunk.js.LICENSE.txt": "/mercadoGPL/static/js/2.da692ae8.chunk.js.LICENSE.txt",
+    "static/media/material-icons.css": "/mercadoGPL/static/media/MaterialIcons-Regular.d120c85b.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.52570f14.js",
-    "static/css/2.20db02cc.chunk.css",
+    "static/js/runtime-main.f8350877.js",
+    "static/css/2.228b90c7.chunk.css",
     "static/js/2.da692ae8.chunk.js",
     "static/css/main.3ffb6f47.chunk.css",
-    "static/js/main.363f511d.chunk.js"
+    "static/js/main.c567e094.chunk.js"
   ]
 }
