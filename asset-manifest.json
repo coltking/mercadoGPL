@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mercadoGPL/static/css/main.3ffb6f47.chunk.css",
-    "main.js": "/mercadoGPL/static/js/main.997ad6e4.chunk.js",
-    "main.js.map": "/mercadoGPL/static/js/main.997ad6e4.chunk.js.map",
+    "main.js": "/mercadoGPL/static/js/main.ddb179bb.chunk.js",
+    "main.js.map": "/mercadoGPL/static/js/main.ddb179bb.chunk.js.map",
     "runtime-main.js": "/mercadoGPL/static/js/runtime-main.f8350877.js",
     "runtime-main.js.map": "/mercadoGPL/static/js/runtime-main.f8350877.js.map",
     "static/css/2.228b90c7.chunk.css": "/mercadoGPL/static/css/2.228b90c7.chunk.css",
     "static/js/2.da692ae8.chunk.js": "/mercadoGPL/static/js/2.da692ae8.chunk.js",
     "static/js/2.da692ae8.chunk.js.map": "/mercadoGPL/static/js/2.da692ae8.chunk.js.map",
     "index.html": "/mercadoGPL/index.html",
-    "precache-manifest.f8c44a4b8c6a7cbc38e85b47bc456217.js": "/mercadoGPL/precache-manifest.f8c44a4b8c6a7cbc38e85b47bc456217.js",
+    "precache-manifest.87465ae0d3c91367e301bb830eb28cc0.js": "/mercadoGPL/precache-manifest.87465ae0d3c91367e301bb830eb28cc0.js",
     "service-worker.js": "/mercadoGPL/service-worker.js",
     "static/css/2.228b90c7.chunk.css.map": "/mercadoGPL/static/css/2.228b90c7.chunk.css.map",
     "static/css/main.3ffb6f47.chunk.css.map": "/mercadoGPL/static/css/main.3ffb6f47.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.228b90c7.chunk.css",
     "static/js/2.da692ae8.chunk.js",
     "static/css/main.3ffb6f47.chunk.css",
-    "static/js/main.997ad6e4.chunk.js"
+    "static/js/main.ddb179bb.chunk.js"
   ]
 }
